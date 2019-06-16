@@ -1,0 +1,29 @@
+{
+  "name": "cipher",
+  "version": "1.0.0",
+  "description": "Command line Cipher toolbox",
+  "main": "cipher.js",
+  "scripts": {
+    "test": "test",
+    "start": "node cipher.js --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trax100/cipher.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "cli",
+    "morse"
+  ],
+  "author": "Wladyslaw Motyka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trax100/cipher/issues"
+  },
+  "homepage": "https://github.com/trax100/cipher#readme",
+  "dependencies": {
+    "getopts": "^2.2.4"
+  }
+}
